@@ -2,8 +2,6 @@ package chapter5;
 import java.io.*;
 /**
  * BAO DOAN
- * CIS 144
- * Professor Kevin Truong
  * Program: Employee.java
  * Purpose: An external class which creates a programmer-defined employee record
 			when it is called.

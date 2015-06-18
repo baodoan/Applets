@@ -6,8 +6,6 @@ import javax.swing.JOptionPane;
 
 /**
  * BAO DOAN
- * CIS 144
- * Professor Kevin Truong
  * Program: CheckBoard.java
  * Purpose: A program allows the user to enter the
 start, stop, and step fields, then clicks the Go button and the results display.

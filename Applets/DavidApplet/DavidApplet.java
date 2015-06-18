@@ -7,8 +7,6 @@ import javax.swing.JComboBox;
 import javax.swing.JOptionPane;
 /**
  * BAO DOAN
- * CIS 144
- * Professor Kevin Truong
  * Program: DavidApplet.java
  * Purpose: An Applet allows customers to reserve a camping sites on the Web.
  * Date: 11/18/2013
